@@ -1,0 +1,12 @@
+export {default as NotificationIcon} from './notification.svg';
+export {default as EditProfile} from './edit-profile.svg';
+export {default as MaleIcon} from './male.svg';
+export {default as VideoCall} from './video-call.svg';
+export {default as VoiceCall} from './voice-call.svg';
+export {default as HomeVisit} from './home-visit.svg';
+export {default as Message} from './message.svg';
+export {default as UnSelectedHomeVisit} from './unselected-home-visit.svg';
+export {default as UnSelectedMessage} from './unselected-message.svg';
+export {default as UnSelectedVideoCall} from './unselected-video-call.svg';
+export {default as UnSelectedVoiceCall} from './unselected-voice-call.svg';
+export {default as Accepted} from './accepted.svg';
